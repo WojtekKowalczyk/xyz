@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notatnik</string>
+    <string name="zapisz">ZAPISZ</string>
+    <string name="czytaj">CZYTAJ</string>
+</resources>
